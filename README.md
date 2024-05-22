@@ -1,9 +1,9 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+A 3model cup that have an image on it 
+
+you can use the control to place where you want the image to be 
 
 ```
-yarn
-yarn dev
+npm run  dev
 ```
 
 
